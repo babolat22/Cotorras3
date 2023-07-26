@@ -1,6 +1,6 @@
 package cotorras;
 
-class Golondrina{
+class Golondrina extend Aves{
     private int energia;
     String nombre;
     String color;
