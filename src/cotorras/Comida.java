@@ -11,6 +11,8 @@ package cotorras;
  */
 public  class Comida {
     static String nombre="Alpiste";
+    String tipo;
+    string sabor;
 
    
 }
