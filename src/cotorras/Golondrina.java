@@ -1,6 +1,6 @@
 package cotorras;
 
-class Golondrina extend Aves{
+class Golondrina extends Aves{
     private int energia;
     String nombre;
     String color;
@@ -14,6 +14,7 @@ class Golondrina extend Aves{
     }
 
     public Golondrina(String nom) {
+
         nombre=nom;
     }
     
