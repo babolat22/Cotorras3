@@ -1,6 +1,11 @@
 package cotorras;
 
 public class Aves{
-   String tipo="Ala";
+
+    //cambios de merge
+    char tipo='A';
+    int nro;
+    String tipo="Ala";
+
   
 }
