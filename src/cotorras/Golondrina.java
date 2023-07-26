@@ -22,6 +22,7 @@ class Golondrina{
     }
     void comerAlpiste(double gramos){
         energia += gramos * 2;
+        System.out.println("Comiendo un rico: "+ Comida.nombre);
     }
     int getEnergia(){
         return energia;
