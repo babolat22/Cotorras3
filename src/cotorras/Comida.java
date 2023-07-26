@@ -6,9 +6,9 @@ package cotorras;
  */
 public  class Comida {
     static String nombre="Alpiste";
-  <<<<<<< cristina
+
     String tipo;
-    string sabor;
+    String sabor;
       // QUE FEO LO TUYO
     public Comida(){
         // ESTO ES NUEVO
