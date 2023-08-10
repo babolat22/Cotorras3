@@ -2,7 +2,7 @@ package cotorras;
 
 public class Aves{
     char tipo='A';
-    int nro;
+    int nros;
     String canto="PiPi piripiriiii......!!";
     
     public String Cantico(){
