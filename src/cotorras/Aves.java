@@ -11,4 +11,8 @@ public class Aves{
         return canto;
     
     }
+    
+    public void cambiarPlumaje(){
+        System.out.println("Hay plumas nuevas");
+    }
  }
