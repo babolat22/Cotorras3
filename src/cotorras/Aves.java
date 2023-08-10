@@ -1,11 +1,13 @@
 package cotorras;
 
 public class Aves{
-
-    //cambios de merge
     char tipo='A';
     int nro;
-    String tipo="Ala";
-
-  
-}
+    String canto="PiPi piripiriiii......!!";
+    
+    public String Cantico(){
+        System.out.println("El ave hizo.."+ canto);
+        return canto;
+    
+    }
+ }
