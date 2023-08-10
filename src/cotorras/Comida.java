@@ -5,7 +5,8 @@ package cotorras;
  * @author juanj
  */
 public  class Comida {
-    static String nombre="Alpiste";
+    static String nombre="hAMBURGUESA";
+    
 
     String tipo;
     String sabor;
